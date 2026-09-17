@@ -1,0 +1,1287 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop Pro 15\"",
+      "category": "Electronics",
+      "price": 1299.99,
+      "stock": 25,
+      "status": "active",
+      "description": "High-performance laptop with 15\" Retina display, 16GB RAM and 512GB SSD.",
+      "image": "https://picsum.photos/seed/product-1/400/300",
+      "createdAt": "2026-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Noise-Cancelling Headphones",
+      "category": "Electronics",
+      "price": 249.99,
+      "stock": 60,
+      "status": "active",
+      "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+      "image": "https://picsum.photos/seed/product-2/400/300",
+      "createdAt": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "4K Ultra HD Smart TV 55\"",
+      "category": "Electronics",
+      "price": 549,
+      "stock": 15,
+      "status": "active",
+      "description": "Smart TV with 4K resolution, HDR support and built-in streaming apps.",
+      "image": "https://picsum.photos/seed/product-3/400/300",
+      "createdAt": "2026-03-11T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Mechanical Keyboard RGB",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 120,
+      "status": "active",
+      "description": "Hot-swappable mechanical keyboard with per-key RGB lighting.",
+      "image": "https://picsum.photos/seed/product-4/400/300",
+      "createdAt": "2026-03-16T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 29.99,
+      "stock": 200,
+      "status": "active",
+      "description": "Ergonomic wireless mouse with adjustable DPI.",
+      "image": "https://picsum.photos/seed/product-5/400/300",
+      "createdAt": "2026-03-21T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Classic Denim Jacket",
+      "category": "Clothing",
+      "price": 79.99,
+      "stock": 80,
+      "status": "active",
+      "description": "Unisex denim jacket made from 100% cotton.",
+      "image": "https://picsum.photos/seed/product-6/400/300",
+      "createdAt": "2026-03-26T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Running Shoes",
+      "category": "Clothing",
+      "price": 119.99,
+      "stock": 95,
+      "status": "inactive",
+      "description": "Lightweight running shoes with breathable mesh upper.",
+      "image": "https://picsum.photos/seed/product-7/400/300",
+      "createdAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Merino Wool Sweater",
+      "category": "Clothing",
+      "price": 89,
+      "stock": 40,
+      "status": "active",
+      "description": "Soft merino wool sweater, machine washable.",
+      "image": "https://picsum.photos/seed/product-8/400/300",
+      "createdAt": "2026-04-05T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Leather Belt",
+      "category": "Clothing",
+      "price": 34.99,
+      "stock": 150,
+      "status": "active",
+      "description": "Genuine leather belt with brushed metal buckle.",
+      "image": "https://picsum.photos/seed/product-9/400/300",
+      "createdAt": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Ceramic Plant Pot Set",
+      "category": "Home & Garden",
+      "price": 42.5,
+      "stock": 70,
+      "status": "active",
+      "description": "Set of 3 ceramic pots with drainage holes, various sizes.",
+      "image": "https://picsum.photos/seed/product-10/400/300",
+      "createdAt": "2026-04-15T00:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Cordless Vacuum Cleaner",
+      "category": "Home & Garden",
+      "price": 199.99,
+      "stock": 30,
+      "status": "active",
+      "description": "Lightweight cordless vacuum with HEPA filtration.",
+      "image": "https://picsum.photos/seed/product-11/400/300",
+      "createdAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "name": "LED Desk Lamp",
+      "category": "Home & Garden",
+      "price": 39.99,
+      "stock": 110,
+      "status": "active",
+      "description": "Adjustable LED desk lamp with 5 brightness levels.",
+      "image": "https://picsum.photos/seed/product-12/400/300",
+      "createdAt": "2026-04-25T00:00:00.000Z"
+    },
+    {
+      "id": "13",
+      "name": "Stainless Steel Cookware Set",
+      "category": "Home & Garden",
+      "price": 179.99,
+      "stock": 25,
+      "status": "active",
+      "description": "10-piece stainless steel cookware set, dishwasher safe.",
+      "image": "https://picsum.photos/seed/product-13/400/300",
+      "createdAt": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "id": "14",
+      "name": "Yoga Mat",
+      "category": "Sports & Outdoors",
+      "price": 34.99,
+      "stock": 140,
+      "status": "active",
+      "description": "Non-slip yoga mat with carrying strap, 6mm thick.",
+      "image": "https://picsum.photos/seed/product-14/400/300",
+      "createdAt": "2026-05-05T00:00:00.000Z"
+    },
+    {
+      "id": "15",
+      "name": "Insulated Water Bottle",
+      "category": "Sports & Outdoors",
+      "price": 24.99,
+      "stock": 220,
+      "status": "active",
+      "description": "Double-wall insulated bottle keeps drinks cold for 24 hours.",
+      "image": "https://picsum.photos/seed/product-15/400/300",
+      "createdAt": "2026-05-10T00:00:00.000Z"
+    },
+    {
+      "id": "16",
+      "name": "Camping Tent 4-Person",
+      "category": "Sports & Outdoors",
+      "price": 149.99,
+      "stock": 20,
+      "status": "inactive",
+      "description": "Waterproof 4-person tent with easy setup frame.",
+      "image": "https://picsum.photos/seed/product-16/400/300",
+      "createdAt": "2026-05-15T00:00:00.000Z"
+    },
+    {
+      "id": "17",
+      "name": "Adjustable Dumbbell Set",
+      "category": "Sports & Outdoors",
+      "price": 249,
+      "stock": 18,
+      "status": "active",
+      "description": "Space-saving adjustable dumbbells, 5-50 lbs per hand.",
+      "image": "https://picsum.photos/seed/product-17/400/300",
+      "createdAt": "2026-05-20T00:00:00.000Z"
+    },
+    {
+      "id": "18",
+      "name": "The Pragmatic Programmer",
+      "category": "Books",
+      "price": 39.99,
+      "stock": 85,
+      "status": "active",
+      "description": "A classic guide to software craftsmanship.",
+      "image": "https://picsum.photos/seed/product-18/400/300",
+      "createdAt": "2026-05-25T00:00:00.000Z"
+    },
+    {
+      "id": "19",
+      "name": "Atomic Habits",
+      "category": "Books",
+      "price": 18.99,
+      "stock": 160,
+      "status": "active",
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "image": "https://picsum.photos/seed/product-19/400/300",
+      "createdAt": "2026-05-30T00:00:00.000Z"
+    },
+    {
+      "id": "20",
+      "name": "Building a Second Brain",
+      "category": "Books",
+      "price": 21.99,
+      "stock": 75,
+      "status": "active",
+      "description": "A proven method for organizing digital knowledge.",
+      "image": "https://picsum.photos/seed/product-20/400/300",
+      "createdAt": "2026-06-04T00:00:00.000Z"
+    },
+    {
+      "id": "21",
+      "name": "Wooden Puzzle Set",
+      "category": "Toys & Games",
+      "price": 19.99,
+      "stock": 90,
+      "status": "active",
+      "description": "Set of 5 wooden brain-teaser puzzles for all ages.",
+      "image": "https://picsum.photos/seed/product-21/400/300",
+      "createdAt": "2026-06-09T00:00:00.000Z"
+    },
+    {
+      "id": "22",
+      "name": "Remote Control Drone",
+      "category": "Toys & Games",
+      "price": 89.99,
+      "stock": 45,
+      "status": "active",
+      "description": "Beginner-friendly drone with HD camera and auto-hover.",
+      "image": "https://picsum.photos/seed/product-22/400/300",
+      "createdAt": "2026-06-14T00:00:00.000Z"
+    },
+    {
+      "id": "23",
+      "name": "Board Game Collection",
+      "category": "Toys & Games",
+      "price": 54.99,
+      "stock": 55,
+      "status": "active",
+      "description": "Bundle of 3 classic strategy board games.",
+      "image": "https://picsum.photos/seed/product-23/400/300",
+      "createdAt": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "24",
+      "name": "Vitamin C Serum",
+      "category": "Beauty & Health",
+      "price": 24.99,
+      "stock": 130,
+      "status": "active",
+      "description": "Brightening serum with 20% vitamin C and hyaluronic acid.",
+      "image": "https://picsum.photos/seed/product-24/400/300",
+      "createdAt": "2026-06-24T00:00:00.000Z"
+    },
+    {
+      "id": "25",
+      "name": "Electric Toothbrush",
+      "category": "Beauty & Health",
+      "price": 49.99,
+      "stock": 100,
+      "status": "active",
+      "description": "Rechargeable electric toothbrush with 3 cleaning modes.",
+      "image": "https://picsum.photos/seed/product-25/400/300",
+      "createdAt": "2026-06-29T00:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "orderNumber": "ORD-0001",
+      "customer": "Olivia Martin",
+      "customerId": "1",
+      "status": "processing",
+      "total": 1299.99,
+      "date": "2026-05-20T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "1",
+          "productName": "Laptop Pro 15\"",
+          "quantity": 1,
+          "price": 1299.99
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "orderNumber": "ORD-0002",
+      "customer": "Liam Johnson",
+      "customerId": "2",
+      "status": "cancelled",
+      "total": 777.97,
+      "date": "2026-05-23T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "8",
+          "productName": "Merino Wool Sweater",
+          "quantity": 2,
+          "price": 89
+        },
+        {
+          "productId": "11",
+          "productName": "Cordless Vacuum Cleaner",
+          "quantity": 3,
+          "price": 199.99
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "orderNumber": "ORD-0003",
+      "customer": "Emma Williams",
+      "customerId": "3",
+      "status": "shipped",
+      "total": 154.94,
+      "date": "2026-05-26T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "15",
+          "productName": "Insulated Water Bottle",
+          "quantity": 3,
+          "price": 24.99
+        },
+        {
+          "productId": "18",
+          "productName": "The Pragmatic Programmer",
+          "quantity": 1,
+          "price": 39.99
+        },
+        {
+          "productId": "21",
+          "productName": "Wooden Puzzle Set",
+          "quantity": 2,
+          "price": 19.99
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "orderNumber": "ORD-0004",
+      "customer": "Noah Brown",
+      "customerId": "4",
+      "status": "pending",
+      "total": 89.99,
+      "date": "2026-05-29T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "22",
+          "productName": "Remote Control Drone",
+          "quantity": 1,
+          "price": 89.99
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "orderNumber": "ORD-0005",
+      "customer": "Ava Jones",
+      "customerId": "5",
+      "status": "delivered",
+      "total": 539.95,
+      "date": "2026-06-01T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "4",
+          "productName": "Mechanical Keyboard RGB",
+          "quantity": 2,
+          "price": 89.99
+        },
+        {
+          "productId": "7",
+          "productName": "Running Shoes",
+          "quantity": 3,
+          "price": 119.99
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "orderNumber": "ORD-0006",
+      "customer": "William Garcia",
+      "customerId": "6",
+      "status": "processing",
+      "total": 1132.96,
+      "date": "2026-06-04T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "11",
+          "productName": "Cordless Vacuum Cleaner",
+          "quantity": 3,
+          "price": 199.99
+        },
+        {
+          "productId": "14",
+          "productName": "Yoga Mat",
+          "quantity": 1,
+          "price": 34.99
+        },
+        {
+          "productId": "17",
+          "productName": "Adjustable Dumbbell Set",
+          "quantity": 2,
+          "price": 249
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "orderNumber": "ORD-0007",
+      "customer": "Sophia Miller",
+      "customerId": "7",
+      "status": "cancelled",
+      "total": 39.99,
+      "date": "2026-06-07T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "18",
+          "productName": "The Pragmatic Programmer",
+          "quantity": 1,
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "orderNumber": "ORD-0008",
+      "customer": "James Davis",
+      "customerId": "8",
+      "status": "shipped",
+      "total": 1746.98,
+      "date": "2026-06-10T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "25",
+          "productName": "Electric Toothbrush",
+          "quantity": 2,
+          "price": 49.99
+        },
+        {
+          "productId": "3",
+          "productName": "4K Ultra HD Smart TV 55\"",
+          "quantity": 3,
+          "price": 549
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "orderNumber": "ORD-0009",
+      "customer": "Isabella Rodriguez",
+      "customerId": "9",
+      "status": "pending",
+      "total": 762.45,
+      "date": "2026-06-13T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "7",
+          "productName": "Running Shoes",
+          "quantity": 3,
+          "price": 119.99
+        },
+        {
+          "productId": "10",
+          "productName": "Ceramic Plant Pot Set",
+          "quantity": 1,
+          "price": 42.5
+        },
+        {
+          "productId": "13",
+          "productName": "Stainless Steel Cookware Set",
+          "quantity": 2,
+          "price": 179.99
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "orderNumber": "ORD-0010",
+      "customer": "Benjamin Wilson",
+      "customerId": "10",
+      "status": "delivered",
+      "total": 34.99,
+      "date": "2026-06-16T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "14",
+          "productName": "Yoga Mat",
+          "quantity": 1,
+          "price": 34.99
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "orderNumber": "ORD-0011",
+      "customer": "Olivia Martin",
+      "customerId": "1",
+      "status": "processing",
+      "total": 114.95,
+      "date": "2026-06-19T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "21",
+          "productName": "Wooden Puzzle Set",
+          "quantity": 2,
+          "price": 19.99
+        },
+        {
+          "productId": "24",
+          "productName": "Vitamin C Serum",
+          "quantity": 3,
+          "price": 24.99
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "orderNumber": "ORD-0012",
+      "customer": "Liam Johnson",
+      "customerId": "2",
+      "status": "cancelled",
+      "total": 1796.97,
+      "date": "2026-06-22T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "3",
+          "productName": "4K Ultra HD Smart TV 55\"",
+          "quantity": 3,
+          "price": 549
+        },
+        {
+          "productId": "6",
+          "productName": "Classic Denim Jacket",
+          "quantity": 1,
+          "price": 79.99
+        },
+        {
+          "productId": "9",
+          "productName": "Leather Belt",
+          "quantity": 2,
+          "price": 34.99
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "orderNumber": "ORD-0013",
+      "customer": "Emma Williams",
+      "customerId": "3",
+      "status": "shipped",
+      "total": 42.5,
+      "date": "2026-06-25T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "10",
+          "productName": "Ceramic Plant Pot Set",
+          "quantity": 1,
+          "price": 42.5
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "orderNumber": "ORD-0014",
+      "customer": "Noah Brown",
+      "customerId": "4",
+      "status": "pending",
+      "total": 563.97,
+      "date": "2026-06-28T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "17",
+          "productName": "Adjustable Dumbbell Set",
+          "quantity": 2,
+          "price": 249
+        },
+        {
+          "productId": "20",
+          "productName": "Building a Second Brain",
+          "quantity": 3,
+          "price": 21.99
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "orderNumber": "ORD-0015",
+      "customer": "Ava Jones",
+      "customerId": "5",
+      "status": "delivered",
+      "total": 384.94,
+      "date": "2026-07-01T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "24",
+          "productName": "Vitamin C Serum",
+          "quantity": 3,
+          "price": 24.99
+        },
+        {
+          "productId": "2",
+          "productName": "Wireless Noise-Cancelling Headphones",
+          "quantity": 1,
+          "price": 249.99
+        },
+        {
+          "productId": "5",
+          "productName": "Wireless Mouse",
+          "quantity": 2,
+          "price": 29.99
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "orderNumber": "ORD-0016",
+      "customer": "William Garcia",
+      "customerId": "6",
+      "status": "processing",
+      "total": 79.99,
+      "date": "2026-07-04T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "6",
+          "productName": "Classic Denim Jacket",
+          "quantity": 1,
+          "price": 79.99
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "orderNumber": "ORD-0017",
+      "customer": "Sophia Miller",
+      "customerId": "7",
+      "status": "cancelled",
+      "total": 809.95,
+      "date": "2026-07-07T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "13",
+          "productName": "Stainless Steel Cookware Set",
+          "quantity": 2,
+          "price": 179.99
+        },
+        {
+          "productId": "16",
+          "productName": "Camping Tent 4-Person",
+          "quantity": 3,
+          "price": 149.99
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "orderNumber": "ORD-0018",
+      "customer": "James Davis",
+      "customerId": "8",
+      "status": "shipped",
+      "total": 2720.94,
+      "date": "2026-07-10T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "20",
+          "productName": "Building a Second Brain",
+          "quantity": 3,
+          "price": 21.99
+        },
+        {
+          "productId": "23",
+          "productName": "Board Game Collection",
+          "quantity": 1,
+          "price": 54.99
+        },
+        {
+          "productId": "1",
+          "productName": "Laptop Pro 15\"",
+          "quantity": 2,
+          "price": 1299.99
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "orderNumber": "ORD-0019",
+      "customer": "Isabella Rodriguez",
+      "customerId": "9",
+      "status": "pending",
+      "total": 249.99,
+      "date": "2026-07-13T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "2",
+          "productName": "Wireless Noise-Cancelling Headphones",
+          "quantity": 1,
+          "price": 249.99
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "orderNumber": "ORD-0020",
+      "customer": "Benjamin Wilson",
+      "customerId": "10",
+      "status": "delivered",
+      "total": 189.95,
+      "date": "2026-07-16T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "9",
+          "productName": "Leather Belt",
+          "quantity": 2,
+          "price": 34.99
+        },
+        {
+          "productId": "12",
+          "productName": "LED Desk Lamp",
+          "quantity": 3,
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "orderNumber": "ORD-0021",
+      "customer": "Olivia Martin",
+      "customerId": "1",
+      "status": "processing",
+      "total": 648.94,
+      "date": "2026-07-19T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "16",
+          "productName": "Camping Tent 4-Person",
+          "quantity": 3,
+          "price": 149.99
+        },
+        {
+          "productId": "19",
+          "productName": "Atomic Habits",
+          "quantity": 1,
+          "price": 18.99
+        },
+        {
+          "productId": "22",
+          "productName": "Remote Control Drone",
+          "quantity": 2,
+          "price": 89.99
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "orderNumber": "ORD-0022",
+      "customer": "Liam Johnson",
+      "customerId": "2",
+      "status": "cancelled",
+      "total": 54.99,
+      "date": "2026-07-22T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "23",
+          "productName": "Board Game Collection",
+          "quantity": 1,
+          "price": 54.99
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "orderNumber": "ORD-0023",
+      "customer": "Emma Williams",
+      "customerId": "3",
+      "status": "shipped",
+      "total": 326.98,
+      "date": "2026-07-25T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "5",
+          "productName": "Wireless Mouse",
+          "quantity": 2,
+          "price": 29.99
+        },
+        {
+          "productId": "8",
+          "productName": "Merino Wool Sweater",
+          "quantity": 3,
+          "price": 89
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "orderNumber": "ORD-0024",
+      "customer": "Noah Brown",
+      "customerId": "4",
+      "status": "pending",
+      "total": 224.94,
+      "date": "2026-07-28T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "12",
+          "productName": "LED Desk Lamp",
+          "quantity": 3,
+          "price": 39.99
+        },
+        {
+          "productId": "15",
+          "productName": "Insulated Water Bottle",
+          "quantity": 1,
+          "price": 24.99
+        },
+        {
+          "productId": "18",
+          "productName": "The Pragmatic Programmer",
+          "quantity": 2,
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "orderNumber": "ORD-0025",
+      "customer": "Ava Jones",
+      "customerId": "5",
+      "status": "delivered",
+      "total": 18.99,
+      "date": "2026-07-31T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "19",
+          "productName": "Atomic Habits",
+          "quantity": 1,
+          "price": 18.99
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "orderNumber": "ORD-0026",
+      "customer": "William Garcia",
+      "customerId": "6",
+      "status": "processing",
+      "total": 2869.95,
+      "date": "2026-08-03T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "1",
+          "productName": "Laptop Pro 15\"",
+          "quantity": 2,
+          "price": 1299.99
+        },
+        {
+          "productId": "4",
+          "productName": "Mechanical Keyboard RGB",
+          "quantity": 3,
+          "price": 89.99
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "orderNumber": "ORD-0027",
+      "customer": "Sophia Miller",
+      "customerId": "7",
+      "status": "cancelled",
+      "total": 536.97,
+      "date": "2026-08-06T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "8",
+          "productName": "Merino Wool Sweater",
+          "quantity": 3,
+          "price": 89
+        },
+        {
+          "productId": "11",
+          "productName": "Cordless Vacuum Cleaner",
+          "quantity": 1,
+          "price": 199.99
+        },
+        {
+          "productId": "14",
+          "productName": "Yoga Mat",
+          "quantity": 2,
+          "price": 34.99
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "orderNumber": "ORD-0028",
+      "customer": "James Davis",
+      "customerId": "8",
+      "status": "shipped",
+      "total": 24.99,
+      "date": "2026-08-09T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "15",
+          "productName": "Insulated Water Bottle",
+          "quantity": 1,
+          "price": 24.99
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "orderNumber": "ORD-0029",
+      "customer": "Isabella Rodriguez",
+      "customerId": "9",
+      "status": "pending",
+      "total": 329.95,
+      "date": "2026-08-12T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "22",
+          "productName": "Remote Control Drone",
+          "quantity": 2,
+          "price": 89.99
+        },
+        {
+          "productId": "25",
+          "productName": "Electric Toothbrush",
+          "quantity": 3,
+          "price": 49.99
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "orderNumber": "ORD-0030",
+      "customer": "Benjamin Wilson",
+      "customerId": "10",
+      "status": "delivered",
+      "total": 474.96,
+      "date": "2026-08-15T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "4",
+          "productName": "Mechanical Keyboard RGB",
+          "quantity": 3,
+          "price": 89.99
+        },
+        {
+          "productId": "7",
+          "productName": "Running Shoes",
+          "quantity": 1,
+          "price": 119.99
+        },
+        {
+          "productId": "10",
+          "productName": "Ceramic Plant Pot Set",
+          "quantity": 2,
+          "price": 42.5
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "orderNumber": "ORD-0031",
+      "customer": "Olivia Martin",
+      "customerId": "1",
+      "status": "processing",
+      "total": 199.99,
+      "date": "2026-08-18T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "11",
+          "productName": "Cordless Vacuum Cleaner",
+          "quantity": 1,
+          "price": 199.99
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "orderNumber": "ORD-0032",
+      "customer": "Liam Johnson",
+      "customerId": "2",
+      "status": "cancelled",
+      "total": 139.95,
+      "date": "2026-08-21T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "18",
+          "productName": "The Pragmatic Programmer",
+          "quantity": 2,
+          "price": 39.99
+        },
+        {
+          "productId": "21",
+          "productName": "Wooden Puzzle Set",
+          "quantity": 3,
+          "price": 19.99
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "orderNumber": "ORD-0033",
+      "customer": "Emma Williams",
+      "customerId": "3",
+      "status": "shipped",
+      "total": 858.95,
+      "date": "2026-08-24T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "25",
+          "productName": "Electric Toothbrush",
+          "quantity": 3,
+          "price": 49.99
+        },
+        {
+          "productId": "3",
+          "productName": "4K Ultra HD Smart TV 55\"",
+          "quantity": 1,
+          "price": 549
+        },
+        {
+          "productId": "6",
+          "productName": "Classic Denim Jacket",
+          "quantity": 2,
+          "price": 79.99
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "orderNumber": "ORD-0034",
+      "customer": "Noah Brown",
+      "customerId": "4",
+      "status": "pending",
+      "total": 119.99,
+      "date": "2026-08-27T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "7",
+          "productName": "Running Shoes",
+          "quantity": 1,
+          "price": 119.99
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "orderNumber": "ORD-0035",
+      "customer": "Ava Jones",
+      "customerId": "5",
+      "status": "delivered",
+      "total": 816.98,
+      "date": "2026-08-30T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "14",
+          "productName": "Yoga Mat",
+          "quantity": 2,
+          "price": 34.99
+        },
+        {
+          "productId": "17",
+          "productName": "Adjustable Dumbbell Set",
+          "quantity": 3,
+          "price": 249
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "orderNumber": "ORD-0036",
+      "customer": "William Garcia",
+      "customerId": "6",
+      "status": "processing",
+      "total": 584.94,
+      "date": "2026-09-02T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "21",
+          "productName": "Wooden Puzzle Set",
+          "quantity": 3,
+          "price": 19.99
+        },
+        {
+          "productId": "24",
+          "productName": "Vitamin C Serum",
+          "quantity": 1,
+          "price": 24.99
+        },
+        {
+          "productId": "2",
+          "productName": "Wireless Noise-Cancelling Headphones",
+          "quantity": 2,
+          "price": 249.99
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "orderNumber": "ORD-0037",
+      "customer": "Sophia Miller",
+      "customerId": "7",
+      "status": "cancelled",
+      "total": 549,
+      "date": "2026-09-05T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "3",
+          "productName": "4K Ultra HD Smart TV 55\"",
+          "quantity": 1,
+          "price": 549
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "orderNumber": "ORD-0038",
+      "customer": "James Davis",
+      "customerId": "8",
+      "status": "shipped",
+      "total": 624.97,
+      "date": "2026-09-08T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "10",
+          "productName": "Ceramic Plant Pot Set",
+          "quantity": 2,
+          "price": 42.5
+        },
+        {
+          "productId": "13",
+          "productName": "Stainless Steel Cookware Set",
+          "quantity": 3,
+          "price": 179.99
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "orderNumber": "ORD-0039",
+      "customer": "Isabella Rodriguez",
+      "customerId": "9",
+      "status": "pending",
+      "total": 878.97,
+      "date": "2026-09-11T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "17",
+          "productName": "Adjustable Dumbbell Set",
+          "quantity": 3,
+          "price": 249
+        },
+        {
+          "productId": "20",
+          "productName": "Building a Second Brain",
+          "quantity": 1,
+          "price": 21.99
+        },
+        {
+          "productId": "23",
+          "productName": "Board Game Collection",
+          "quantity": 2,
+          "price": 54.99
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "orderNumber": "ORD-0040",
+      "customer": "Benjamin Wilson",
+      "customerId": "10",
+      "status": "delivered",
+      "total": 24.99,
+      "date": "2026-09-14T00:00:00.000Z",
+      "items": [
+        {
+          "productId": "24",
+          "productName": "Vitamin C Serum",
+          "quantity": 1,
+          "price": 24.99
+        }
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Olivia Martin",
+      "email": "olivia.martin@example.com",
+      "phone": "+1-202-555-0142",
+      "totalOrders": 4,
+      "totalSpent": 2263.87,
+      "joinedAt": "2025-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@example.com",
+      "phone": "+1-202-555-0187",
+      "totalOrders": 4,
+      "totalSpent": 2769.88,
+      "joinedAt": "2025-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Emma Williams",
+      "email": "emma.williams@example.com",
+      "phone": "+1-202-555-0121",
+      "totalOrders": 4,
+      "totalSpent": 1383.37,
+      "joinedAt": "2025-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Noah Brown",
+      "email": "noah.brown@example.com",
+      "phone": "+1-202-555-0198",
+      "totalOrders": 4,
+      "totalSpent": 998.89,
+      "joinedAt": "2025-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Ava Jones",
+      "email": "ava.jones@example.com",
+      "phone": "+1-202-555-0155",
+      "totalOrders": 4,
+      "totalSpent": 1760.86,
+      "joinedAt": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "William Garcia",
+      "email": "william.garcia@example.com",
+      "phone": "+1-202-555-0176",
+      "totalOrders": 4,
+      "totalSpent": 4667.84,
+      "joinedAt": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Sophia Miller",
+      "email": "sophia.miller@example.com",
+      "phone": "+1-202-555-0133",
+      "totalOrders": 4,
+      "totalSpent": 1935.91,
+      "joinedAt": "2025-12-11T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "James Davis",
+      "email": "james.davis@example.com",
+      "phone": "+1-202-555-0164",
+      "totalOrders": 4,
+      "totalSpent": 5117.88,
+      "joinedAt": "2025-12-31T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Isabella Rodriguez",
+      "email": "isabella.rodriguez@example.com",
+      "phone": "+1-202-555-0119",
+      "totalOrders": 4,
+      "totalSpent": 2221.36,
+      "joinedAt": "2026-01-20T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Benjamin Wilson",
+      "email": "benjamin.wilson@example.com",
+      "phone": "+1-202-555-0190",
+      "totalOrders": 4,
+      "totalSpent": 724.89,
+      "joinedAt": "2026-02-09T00:00:00.000Z"
+    }
+  ]
+}
